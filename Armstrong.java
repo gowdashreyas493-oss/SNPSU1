@@ -1,5 +1,5 @@
 import java.util.*;
-publivc class Main
+public class Armstrong
 {
     public static void main(String[] args)
     {
